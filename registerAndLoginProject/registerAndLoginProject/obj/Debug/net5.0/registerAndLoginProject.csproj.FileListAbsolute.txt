@@ -1,0 +1,16 @@
+D:\Proqraming\c#\Projectss\REG\registerAndLoginProject\registerAndLoginProject\bin\Debug\net5.0\registerAndLoginProject.exe
+D:\Proqraming\c#\Projectss\REG\registerAndLoginProject\registerAndLoginProject\bin\Debug\net5.0\registerAndLoginProject.deps.json
+D:\Proqraming\c#\Projectss\REG\registerAndLoginProject\registerAndLoginProject\bin\Debug\net5.0\registerAndLoginProject.runtimeconfig.json
+D:\Proqraming\c#\Projectss\REG\registerAndLoginProject\registerAndLoginProject\bin\Debug\net5.0\registerAndLoginProject.runtimeconfig.dev.json
+D:\Proqraming\c#\Projectss\REG\registerAndLoginProject\registerAndLoginProject\bin\Debug\net5.0\registerAndLoginProject.dll
+D:\Proqraming\c#\Projectss\REG\registerAndLoginProject\registerAndLoginProject\bin\Debug\net5.0\registerAndLoginProject.pdb
+D:\Proqraming\c#\Projectss\REG\registerAndLoginProject\registerAndLoginProject\obj\Debug\net5.0\registerAndLoginProject.csproj.AssemblyReference.cache
+D:\Proqraming\c#\Projectss\REG\registerAndLoginProject\registerAndLoginProject\obj\Debug\net5.0\registerAndLoginProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proqraming\c#\Projectss\REG\registerAndLoginProject\registerAndLoginProject\obj\Debug\net5.0\registerAndLoginProject.AssemblyInfoInputs.cache
+D:\Proqraming\c#\Projectss\REG\registerAndLoginProject\registerAndLoginProject\obj\Debug\net5.0\registerAndLoginProject.AssemblyInfo.cs
+D:\Proqraming\c#\Projectss\REG\registerAndLoginProject\registerAndLoginProject\obj\Debug\net5.0\registerAndLoginProject.csproj.CoreCompileInputs.cache
+D:\Proqraming\c#\Projectss\REG\registerAndLoginProject\registerAndLoginProject\obj\Debug\net5.0\registerAndLoginProject.dll
+D:\Proqraming\c#\Projectss\REG\registerAndLoginProject\registerAndLoginProject\obj\Debug\net5.0\refint\registerAndLoginProject.dll
+D:\Proqraming\c#\Projectss\REG\registerAndLoginProject\registerAndLoginProject\obj\Debug\net5.0\registerAndLoginProject.pdb
+D:\Proqraming\c#\Projectss\REG\registerAndLoginProject\registerAndLoginProject\obj\Debug\net5.0\registerAndLoginProject.genruntimeconfig.cache
+D:\Proqraming\c#\Projectss\REG\registerAndLoginProject\registerAndLoginProject\obj\Debug\net5.0\ref\registerAndLoginProject.dll
